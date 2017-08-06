@@ -1,0 +1,16 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Resources}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{books}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Data Sets}{4}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{The learning problem}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{ML Definition}{16}{0}{2}
+\beamer@sectionintoc {3}{Linear Regression}{21}{0}{3}
+\beamer@subsectionintoc {3}{1}{Linear Regression}{21}{0}{3}
+\beamer@subsectionintoc {3}{2}{Hypothesis}{24}{0}{3}
+\beamer@subsectionintoc {3}{3}{Cost function}{25}{0}{3}
+\beamer@subsectionintoc {3}{4}{Learning algorithm}{28}{0}{3}
+\beamer@subsectionintoc {3}{5}{Gradient Descent - Multiple Regression problem}{31}{0}{3}
+\beamer@subsectionintoc {3}{6}{Summary}{42}{0}{3}
+\beamer@sectionintoc {4}{References}{44}{0}{4}
